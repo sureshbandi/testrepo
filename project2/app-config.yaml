@@ -8,4 +8,10 @@ spec:
   lifecycle: production
   owner: petstore@example.com
   definition:
-    $json: https://petstore.swagger.io/v2/swagger.json
+    $text: https://petstore.swagger.io/v2/swagger.json
+backend:
+  baseUrl: https://petstore.swagger.io
+  reading:
+    allow:
+      - host: petstore.swagger.io
+        paths: ["/v2/"]
