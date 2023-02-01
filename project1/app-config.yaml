@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: artist-web
   description: The place to be, for great artists
-  jll_testField:it's test data
+  jll_testField: it's test data
   labels:
     example.com/custom: custom_label_value
   annotations:
