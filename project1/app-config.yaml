@@ -2,8 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: artist-web
-  description: The place to be, for great artists
   jll_testField: it's test data
+  description: The place to be, for great artist
   labels:
     example.com/custom: custom_label_value
   annotations:
