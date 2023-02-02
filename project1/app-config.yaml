@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: artist-web
   jll_testField: it's test data
+  jll_piller: revenue
   description: The place to be, for great artist
   labels:
     example.com/custom: custom_label_value
