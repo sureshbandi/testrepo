@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: JLL DS MUI Restyles
+  description: This package has restyled the mui components to adhere JLL DS Standards.
+  tags: javascript, mui
+  jll_pillar: Core
+  jll_language: TypeScript
+  jll_framework: JavaScript
+spec:
+  owner: sujith.chowdari@jll.com
+  domain: Technology
+  system: JLL Design System
+  lifecycle: production

@@ -3,8 +3,8 @@ kind: Component
 metadata:
   name: artist-web
   jll_testField: it's test data
-  jll_piller: revenue
-  jll_language: csharpe
+  jll_pillar: revenue
+  jll_language: csharp
   jll_framework: dotnet
   description: The place to be, for great artist
   labels:
