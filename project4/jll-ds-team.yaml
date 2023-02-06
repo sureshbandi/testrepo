@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
   name: JLL-DS-Team
-  description: The jll ds team.
+  description: The jll ds team members' duties generally include performing administrative tasks, familiarizing and adhering to the company's policies and procedures, providing recommendations for improving customer's experience.
 spec:
   type: team
-  children: [backstage, boxoffice]
+  children: [JLL-Design-System, JLL-DS-MUI-Restyles]
