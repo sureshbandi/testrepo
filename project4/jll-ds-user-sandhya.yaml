@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: sandhya.honnappa
+spec:
+  profile:
+    displayName: Honnappa Sandhya
+    email: sandhya.honnappa@jll.com
+  memberOf: [JLL-DS-Team]

@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: suresh.bandi
+spec:
+  profile:
+    displayName: Suresh Bandi
+    email: suresh.bandi@jll.com
+  memberOf: [JLL-DS-Team]

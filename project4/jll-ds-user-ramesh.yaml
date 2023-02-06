@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: ramesh.khairnar
+spec:
+  profile:
+    displayName: Khairnar Ramesh
+    email: ramesh.khairnar@jll.com
+  memberOf: [JLL-DS-Team]
