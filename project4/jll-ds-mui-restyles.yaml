@@ -8,7 +8,7 @@ metadata:
   jll_framework: JavaScript
 spec:
   type: library
-  owner: sujith.chowdari@jll.com
+  owner: JLL-DS-Team
   domain: Common Services
   system: JLL-Design-System
   lifecycle: production
