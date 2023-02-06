@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: JLL DS MUI Restyles
   description: This package has restyled the mui components to adhere JLL DS Standards.
-  tags: javascript, mui
+  tags: [javascript, mui]
   jll_pillar: Core
   jll_language: TypeScript
   jll_framework: JavaScript
