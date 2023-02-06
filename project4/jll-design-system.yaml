@@ -3,7 +3,8 @@ kind: System
 metadata:
   name: JLL Design System
   description: A common component library built using 'web components' technology and tools like stenciljs. The components from this library are all basic component wrappers around html components and composite components combining few different basic components. These components can be imported and used as required in any web application built using any kind of framework, since the components are framework independent
-  tags: [javascript]
+  tags:
+    - javascript
   jll_pillar: Core
   jll_language: TypeScript
   jll_framework: JavaScript
