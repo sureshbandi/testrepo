@@ -9,6 +9,6 @@ metadata:
 spec:
   type: library
   owner: sujith.chowdari@jll.com
-  domain: Technology
-  system: JLL Design System
+  domain: Common Services
+  system: JLL-Design-System
   lifecycle: production

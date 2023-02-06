@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: JLL-DS-Team
+  description: Support team members' duties generally include performing administrative tasks, familiarizing and adhering to the company's policies and procedures, providing recommendations for improving customer's experience.
+spec:
+  type: team
+  domain: Common Services
+  system: JLL-Design-System
+  lifecycle: production
+  members: [sujith.chowdari@jll.com, sandhya.honnappa@jll.com]
