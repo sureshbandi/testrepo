@@ -5,4 +5,4 @@ metadata:
   description: The jll ds team members' duties generally include performing administrative tasks, familiarizing and adhering to the company's policies and procedures, providing recommendations for improving customer's experience.
 spec:
   type: team
-  children: [JLL-Design-System, JLL-DS-MUI-Restyles]
+  children: [sujith.chowdari]
