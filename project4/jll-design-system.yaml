@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: JLL-Design-System
-  description: A common component library built using 'web components' technology and tools like stenciljs. The components from this library are all basic component wrappers around html components and composite components combining few different basic components. These components can be imported and used as required in any web application built using any kind of framework, since the components are framework independent
+  description: The JLL DS is a set of standards to manage design at scale by reducing redundancy while creating a shared language and visual consistency across different pages and channels.
   jll_pillar: Core
   jll_language: TypeScript
   jll_framework: JavaScript
