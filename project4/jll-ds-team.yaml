@@ -5,7 +5,8 @@ metadata:
   description: Support team members' duties generally include performing administrative tasks, familiarizing and adhering to the company's policies and procedures, providing recommendations for improving customer's experience.
 spec:
   type: team
-  domain: Common Services
-  system: JLL-Design-System
-  lifecycle: production
   members: [sujith.chowdari@jll.com, sandhya.honnappa@jll.com]
+  children: [jll-ds-mui-restyles]
+  profile:
+    displayName: JLL-DS-Team
+    email: jll_ds_team@jll.com
