@@ -1,11 +1,18 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: JLL-DS-Foundations
-  description: Foundations are the visual elements needed to create engaging end-to-end user experiences. This includes guidance on iconography, typography, layout and structure.
+  name: JLL-DS-Design-Tokens
+  description: Design Tokens are the visual elements needed to create engaging end-to-end user experiences. This includes guidance on iconography, typography, layout and structure.
   jll_pillar: Core
   jll_language: TypeScript
   jll_framework: JavaScript
+  links:
+    - url: https://designsystem-docs.jll.com/tokens/overview
+      title: Design Tokens Documentation
+      icon: article
+    - url: https://dev.azure.com/JLL-Applications/Jll.Capability.DesignSystem/_artifacts/feed/JLL.Capability/Npm/@jll%2Fjll.capability.designsystem.foundations/overview/1.0.7
+      title: Download Design Tokens Package
+      icon: download
 spec:
   type: library
   owner: JLL-DS-Team
